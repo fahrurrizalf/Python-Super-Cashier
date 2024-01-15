@@ -12,8 +12,7 @@ The Super Cashier Apps requires the installation of the following packages and l
 
 **Python Libraries:**
 1. Psycopg2
-2. Numpy
-3. Tabular
+2. Tabular
 
 ## Objectives
 
